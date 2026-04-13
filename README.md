@@ -58,6 +58,9 @@ During the cleaning process, issues were found and the list are below:
 	- sales_revenue
 		Changed the format to a 2-decimal format
 ## **Key Insights**
+### Overall Performance
+<img width="1100" height="730" alt="image" src="https://github.com/user-attachments/assets/3d539ca5-ba0f-4bc1-b3c0-f2bba8004736" />
+
 ### Product Analysis
 
 ## **Recommendations**
